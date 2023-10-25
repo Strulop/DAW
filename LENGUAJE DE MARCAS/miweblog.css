@@ -1,0 +1,49 @@
+/* enlace */
+a.contact:active {
+    color: #1b67c9; 
+}
+
+/* enlace visitado */
+a.contact:visited {
+    color: #f00d0d; 
+}
+/* Titulo */
+h1 {
+    text-align: center; 
+}
+
+/* página completa */
+body {
+    font-family: 'Gill Sans', sans-serif; 
+    margin: 20px;
+}
+
+/* cabecera */
+header {
+    background-color: black; 
+    color: white; 
+    margin: 0; 
+    padding: 16px; 
+}
+
+/* párrafo  */
+header h4 {
+    text-align: center; 
+}
+
+/* pie de página */
+footer {
+    background-color: black; 
+    color: white; 
+    text-align: center; 
+    padding: 16px; 
+    margin-top: 50px; 
+}
+/*email cliente*/
+.cambio-color{
+    color: white;
+  }
+
+
+ 
+
