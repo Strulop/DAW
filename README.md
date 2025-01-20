@@ -14,7 +14,6 @@ Este proyecto es una práctica de creación de páginas web básicas utilizando 
 - **`miweblog.html`**: Página principal del sitio.
 - **`miweblog2.html`**: Página de contacto.
 - **`miweblog.css`** y **`miweblog2.css`**: Estilos CSS para las respectivas páginas.
-- **`Practica mi primera pagina web.pdf`**: Documentación del proyecto (opcional).
 
 ## 🔧 Tecnologías Utilizadas
 - **Lenguaje de Marcas:** HTML.
