@@ -19,24 +19,12 @@ Este proyecto es una práctica de creación de páginas web básicas utilizando 
 ## 🔧 Tecnologías Utilizadas
 - **Lenguaje de Marcas:** HTML.
 - **Estilos:** CSS.
-- **IDE:** Sublime Text / Visual Studio Code (según hayas usado).
+- **IDE:** Visual Studio Code.
 
 ## 🚀 Cómo Visualizar la Página
 1. Descarga los archivos del repositorio.
 2. Abre el archivo `miweblog.html` en tu navegador.
 3. Usa los enlaces para navegar entre la página principal y la página de contacto.
-
-## 🖼️ Capturas de Pantalla
-*(Si tienes capturas, agrégalas aquí para que los visitantes vean cómo luce la página.)*
-
----
-
-## 🤔 Posibles Mejoras
-- Añadir validaciones al formulario de contacto.
-- Crear más páginas para expandir la funcionalidad.
-- Implementar un diseño responsivo usando media queries.
-
----
 
 ## 📫 Contacto
 - **Autor:** Sergio López (Strulop)
